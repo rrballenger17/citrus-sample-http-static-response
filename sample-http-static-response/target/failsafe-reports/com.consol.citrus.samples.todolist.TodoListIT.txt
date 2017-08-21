@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.consol.citrus.samples.todolist.TodoListIT
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.254 s - in com.consol.citrus.samples.todolist.TodoListIT
